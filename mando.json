@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-10-31T20:27:18.812715+00:00",
+  "fetchedAt": "2026-10-31T23:46:34.002075+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -140,12 +140,12 @@
       "id": 147,
       "name": "Coritiba",
       "home": {
-        "played": 16,
-        "points": 20,
-        "wins": 5,
+        "played": 17,
+        "points": 23,
+        "wins": 6,
         "draws": 5,
         "losses": 6,
-        "goalsFor": 20,
+        "goalsFor": 22,
         "goalsAgainst": 21
       },
       "away": {
@@ -435,13 +435,13 @@
         "goalsAgainst": 13
       },
       "away": {
-        "played": 16,
+        "played": 17,
         "points": 6,
         "wins": 0,
         "draws": 6,
-        "losses": 10,
+        "losses": 11,
         "goalsFor": 12,
-        "goalsAgainst": 33
+        "goalsAgainst": 35
       }
     }
   ]

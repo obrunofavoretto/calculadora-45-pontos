@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T20:27:18.311365+00:00",
+  "fetchedAt": "2026-10-31T23:46:33.671836+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -1425,11 +1425,24 @@
     {
       "id": 147,
       "name": "Coritiba",
-      "points": 39,
-      "played": 32,
-      "lastMatchId": "UJYsf713",
-      "lastMatchDate": 1793053800000,
+      "points": 42,
+      "played": 33,
+      "lastMatchId": "vmuc3WeE",
+      "lastMatchDate": 1793473200000,
       "recent": [
+        {
+          "id": "vmuc3WeE",
+          "date": 1793473200000,
+          "home": "Coritiba",
+          "away": "Vitória",
+          "hg": 2,
+          "ag": 0,
+          "round": "Rodada 33",
+          "points": 3,
+          "opponent": "Vitória",
+          "venue": "Casa",
+          "score": "2–0"
+        },
         {
           "id": "UJYsf713",
           "date": 1793053800000,
@@ -1546,32 +1559,32 @@
           "opponent": "Corinthians",
           "venue": "Casa",
           "score": "2–1"
-        },
-        {
-          "id": "lnn4Y4bn",
-          "date": 1786231800000,
-          "home": "Coritiba",
-          "away": "Chapecoense",
-          "hg": 2,
-          "ag": 1,
-          "round": "",
-          "points": 3,
-          "opponent": "Chapecoense",
-          "venue": "Casa",
-          "score": "2–1"
         }
       ],
-      "goalsFor": 38,
+      "goalsFor": 40,
       "goalsAgainst": 50
     },
     {
       "id": 136,
       "name": "Vitória",
       "points": 38,
-      "played": 32,
-      "lastMatchId": "xpxjhoWF",
-      "lastMatchDate": 1792870200000,
+      "played": 33,
+      "lastMatchId": "vmuc3WeE",
+      "lastMatchDate": 1793473200000,
       "recent": [
+        {
+          "id": "vmuc3WeE",
+          "date": 1793473200000,
+          "home": "Coritiba",
+          "away": "Vitória",
+          "hg": 2,
+          "ag": 0,
+          "round": "Rodada 33",
+          "points": 0,
+          "opponent": "Coritiba",
+          "venue": "Fora",
+          "score": "0–2"
+        },
         {
           "id": "xpxjhoWF",
           "date": 1792870200000,
@@ -1688,23 +1701,10 @@
           "opponent": "Bahia",
           "venue": "Casa",
           "score": "0–2"
-        },
-        {
-          "id": "nqPYu8N9",
-          "date": 1786915800000,
-          "home": "Vitória",
-          "away": "Botafogo",
-          "hg": 1,
-          "ag": 0,
-          "round": "Rodada 23",
-          "points": 3,
-          "opponent": "Botafogo",
-          "venue": "Casa",
-          "score": "1–0"
         }
       ],
       "goalsFor": 35,
-      "goalsAgainst": 46
+      "goalsAgainst": 48
     },
     {
       "id": 120,
