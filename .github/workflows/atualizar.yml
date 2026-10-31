@@ -8,6 +8,7 @@ on:
     paths:
       - index.html
       - ecv-analytics.js
+      - team-picker.js
       - tests/test_analytics.cjs
       - panorama.js
       - panorama.css
@@ -55,6 +56,7 @@ jobs:
       - name: Validar comparação por rodada
         run: |
           python -m unittest discover -s tests -v
+          node --check team-picker.js
           node --check ecv-analytics.js
           node tests/test_analytics.cjs
           node --check relogio-gols.js
@@ -88,7 +90,7 @@ jobs:
       - name: Preparar site público
         run: |
           mkdir -p public
-          cp ecv-analytics.js comparador-periodos.js comparador-periodos.css viradas-reacoes.js viradas-reacoes.css relogio-gols.js relogio-gols.css relogio-gols.json mando.json panorama.js panorama.css mudancas.json index.html classificacao.json projetor.html termometro.html forma.json raio-x.html raio-x.css raio-x.js raio-x.json public/
+          cp team-picker.js ecv-analytics.js comparador-periodos.js comparador-periodos.css viradas-reacoes.js viradas-reacoes.css relogio-gols.js relogio-gols.css relogio-gols.json mando.json panorama.js panorama.css mudancas.json index.html classificacao.json projetor.html termometro.html forma.json raio-x.html raio-x.css raio-x.js raio-x.json public/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
