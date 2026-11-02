@@ -15,3 +15,14 @@ const portuguesa=d.clubs.indexOf('Portuguesa');assert.equal(finals.seasons[2013]
 const e=require('../almanaque-engine.js');const champ=e.withOutcomes(all,finals.seasons,'champion');assert.equal(champ.length,23);assert(champ.every(c=>c.standing.position===1));assert.equal(e.withOutcomes(all,finals.seasons,'relegated').length,90);
 const zeroAway=e.withOutcomes(campaigns(d.matches,'away'),finals.seasons).filter(c=>!c.wins);assert(zeroAway.every(c=>c.standing.outcome==='relegated'));
 const active=e.activeStreaks({games:[{result:'L'},{result:'D'},{result:'W'},{result:'W'}]});assert.deepEqual(active,{wins:2,losses:0,draws:0,unbeaten:3,winless:0});console.log('PASS: desfechos, punição de 2013, rebaixados por formato e sequências ativas.');
+const crossFixture=[
+ [2022,'2022-11-01',37,0,1,1,0],[2022,'2022-11-08',38,1,0,0,1],
+ [2023,'2023-04-01',1,0,1,2,0],[2023,'2023-04-08',2,1,0,0,1],[2023,'2023-04-15',3,0,1,0,0],
+ [2024,'2024-04-01',1,0,1,1,0]];
+let cr=e.crossStreaks(campaigns(crossFixture),'wins').filter(r=>r.club===0);assert.equal(cr[0].length,4);assert.equal(cr[0].startSeason,2022);assert.equal(cr[0].endSeason,2023);assert.equal(cr.length,1,'Empate interrompe a sequência; não junta a vitória de 2024');
+const skip=[crossFixture[0],[2024,'2024-04-01',1,0,1,1,0]];assert.equal(e.crossStreaks(campaigns(skip),'wins').length,0,'Ausência na Série A interrompe a sequência');
+const losses=crossFixture.map(m=>[...m.slice(0,5),m[6],m[5]]);assert.equal(e.crossStreaks(campaigns(losses),'losses').find(r=>r.club===0).length,4);
+assert.equal(e.crossStreaks(campaigns(crossFixture,'home'),'wins').find(r=>r.club===0).length,2,'Filtro de mando preserva a virada de edição');
+assert.equal(e.crossStreaks(campaigns(crossFixture),'unbeaten').find(r=>r.club===0).endSeason,2024,'Permite continuidade em mais de duas edições');
+console.log('PASS: continuidade entre edições, interrupções por resultado/ausência e filtro por mando.');
+for(const k of ['wins','losses','unbeaten','winless']){const r=e.crossStreaks(all,k)[0];console.log('Entre temporadas:',k,r.length,d.clubs[r.club],r.startSeason,r.endSeason);}
