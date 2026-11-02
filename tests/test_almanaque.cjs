@@ -26,3 +26,9 @@ assert.equal(e.crossStreaks(campaigns(crossFixture,'home'),'wins').find(r=>r.clu
 assert.equal(e.crossStreaks(campaigns(crossFixture),'unbeaten').find(r=>r.club===0).endSeason,2024,'Permite continuidade em mais de duas edições');
 console.log('PASS: continuidade entre edições, interrupções por resultado/ausência e filtro por mando.');
 for(const k of ['wins','losses','unbeaten','winless']){const r=e.crossStreaks(all,k)[0];console.log('Entre temporadas:',k,r.length,d.clubs[r.club],r.startSeason,r.endSeason);}
+
+const sample=e.withOutcomes(e.campaigns([[2024,'2024-01-01',1,0,1,2,0],[2024,'2024-01-02',2,1,0,0,0]]),{2024:{complete:true,teams:[{club:0,points:1,outcome:'champion'},{club:1,points:1,outcome:'survived'}]}}).map(e.metrics);
+assert.equal(sample[0].cleanSheets,2);assert.equal(sample[1].cleanSheets,1);assert.equal(sample[0].homeWins,1);assert.equal(sample[0].awayWins,0);assert.equal(sample[0].officialPoints,1,'Usa pontos oficiais com punições');assert.equal(sample[0].gfAvg,1);assert.equal(sample[0].gaAvg,0);
+const cleanDef=e.recordDefinitions.find(d=>d[0]==='cleanSheets');assert.equal(e.rankRecord(sample,cleanDef)[0].club,0);
+const championDef=e.recordDefinitions.find(d=>d[0]==='championMin');assert.equal(e.rankRecord(sample,championDef).length,1);
+console.log('PASS: clean sheets nos dois mandos, médias, vitórias por mando e pontos oficiais.');

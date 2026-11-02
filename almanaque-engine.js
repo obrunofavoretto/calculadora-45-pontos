@@ -39,3 +39,18 @@ const api={campaigns,streaks};if(typeof module!=='undefined'&&module.exports)mod
   return runs.sort((a,b)=>b.length-a.length||a.startSeason-b.startSeason||a.club-b.club||a.games[0].date.localeCompare(b.games[0].date));
  };
 })(typeof globalThis!=='undefined'?globalThis:this);
+
+(function(root){
+ const api=typeof module!=='undefined'&&module.exports?module.exports:root.AlmanaqueEngine;
+ api.metrics=function(c){const games=c.games.length;return {...c,played:games,officialPoints:c.standing?.points??c.points,ppg:(c.standing?.points??c.points)/games,gfAvg:c.gf/games,gaAvg:c.ga/games,cleanSheets:c.games.filter(g=>(g.home===c.club?g.ag:g.hg)===0).length,homeWins:c.games.filter(g=>g.home===c.club&&g.result==='W').length,awayWins:c.games.filter(g=>g.away===c.club&&g.result==='W').length};};
+ api.recordDefinitions=[
+ ['pointsMax','Mais pontos em uma edição','officialPoints',1,'pontos'],['pointsMin','Menos pontos em uma edição','officialPoints',-1,'pontos'],
+ ['ppgMax','Melhor média de pontos','ppg',1,'pontos/jogo'],['ppgMin','Pior média de pontos','ppg',-1,'pontos/jogo'],
+ ['goalsMax','Melhor ataque — total','gf',1,'gols'],['goalsMin','Pior ataque — total','gf',-1,'gols'],
+ ['gfAvgMax','Melhor ataque — média','gfAvg',1,'gols/jogo'],['gfAvgMin','Pior ataque — média','gfAvg',-1,'gols/jogo'],
+ ['defenseMin','Melhor defesa — total','ga',-1,'gols sofridos'],['defenseMax','Pior defesa — total','ga',1,'gols sofridos'],
+ ['gaAvgMin','Melhor defesa — média','gaAvg',-1,'sofridos/jogo'],['gaAvgMax','Pior defesa — média','gaAvg',1,'sofridos/jogo'],
+ ['cleanSheets','Mais jogos sem sofrer gols','cleanSheets',1,'clean sheets'],['homeWins','Mais vitórias em casa','homeWins',1,'vitórias'],['awayWins','Mais vitórias fora','awayWins',1,'vitórias'],
+ ['championMin','Campeão com menos pontos','officialPoints',-1,'pontos','champion']];
+ api.rankRecord=function(rows,definition){const [, ,field,direction,,outcome]=definition;return rows.filter(c=>!outcome||c.standing?.outcome===outcome).sort((a,b)=>direction*(b[field]-a[field])||a.season-b.season||a.club-b.club);};
+})(typeof globalThis!=='undefined'?globalThis:this);
