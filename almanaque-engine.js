@@ -15,3 +15,10 @@ function streaks(campaigns,kind){
 }
 const api={campaigns,streaks};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.AlmanaqueEngine=api;
 })(typeof globalThis!=='undefined'?globalThis:this);
+(function(root){
+ const api=typeof module!=='undefined'&&module.exports?module.exports:root.AlmanaqueEngine;
+ api.withOutcomes=function(campaigns,seasons,filter='all'){
+  return campaigns.map(c=>{const season=seasons[c.season],standing=season?.teams.find(t=>t.club===c.club);return {...c,standing:standing||null,complete:!!season?.complete};}).filter(c=>filter==='all'||filter==='survived'&&c.complete&&c.standing&&c.standing.outcome!=='relegated'||c.complete&&c.standing?.outcome===filter);
+ };
+ api.activeStreaks=function(c){const out={};for(const [kind,test] of Object.entries({wins:r=>r==='W',losses:r=>r==='L',draws:r=>r==='D',unbeaten:r=>r!=='L',winless:r=>r!=='W'})){let n=0;for(let i=c.games.length-1;i>=0&&test(c.games[i].result);i--)n++;out[kind]=n;}return out;};
+})(typeof globalThis!=='undefined'?globalThis:this);
