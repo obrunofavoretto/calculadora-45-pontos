@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-02T23:07:01.970056+00:00",
+  "fetchedAt": "2026-11-03T03:56:15.927489+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -316,13 +316,13 @@
       "id": 794,
       "name": "Red Bull Bragantino",
       "home": {
-        "played": 16,
-        "points": 27,
-        "wins": 8,
+        "played": 17,
+        "points": 30,
+        "wins": 9,
         "draws": 3,
         "losses": 5,
-        "goalsFor": 27,
-        "goalsAgainst": 17
+        "goalsFor": 29,
+        "goalsAgainst": 18
       },
       "away": {
         "played": 17,
@@ -369,13 +369,13 @@
         "goalsAgainst": 21
       },
       "away": {
-        "played": 16,
+        "played": 17,
         "points": 22,
         "wins": 6,
         "draws": 4,
-        "losses": 6,
-        "goalsFor": 26,
-        "goalsAgainst": 26
+        "losses": 7,
+        "goalsFor": 27,
+        "goalsAgainst": 28
       }
     },
     {

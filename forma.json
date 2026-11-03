@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T23:07:01.686950+00:00",
+  "fetchedAt": "2026-11-03T03:56:15.349372+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -1000,10 +1000,23 @@
       "id": 128,
       "name": "Santos",
       "points": 47,
-      "played": 33,
-      "lastMatchId": "21vH6po9",
-      "lastMatchDate": 1793226600000,
+      "played": 34,
+      "lastMatchId": "IFcI8RXg",
+      "lastMatchDate": 1793660400000,
       "recent": [
+        {
+          "id": "IFcI8RXg",
+          "date": 1793660400000,
+          "home": "Red Bull Bragantino",
+          "away": "Santos",
+          "hg": 2,
+          "ag": 1,
+          "round": "Rodada 34",
+          "points": 0,
+          "opponent": "Red Bull Bragantino",
+          "venue": "Fora",
+          "score": "1–2"
+        },
         {
           "id": "21vH6po9",
           "date": 1793226600000,
@@ -1120,32 +1133,32 @@
           "opponent": "Internacional",
           "venue": "Fora",
           "score": "3–2"
-        },
-        {
-          "id": "8fHc1Fkm",
-          "date": 1788116400000,
-          "home": "Corinthians",
-          "away": "Santos",
-          "hg": 0,
-          "ag": 1,
-          "round": "Rodada 25",
-          "points": 3,
-          "opponent": "Corinthians",
-          "venue": "Fora",
-          "score": "1–0"
         }
       ],
-      "goalsFor": 49,
-      "goalsAgainst": 47
+      "goalsFor": 50,
+      "goalsAgainst": 49
     },
     {
       "id": 794,
       "name": "Red Bull Bragantino",
-      "points": 44,
-      "played": 33,
-      "lastMatchId": "faJea2wq",
-      "lastMatchDate": 1793226600000,
+      "points": 47,
+      "played": 34,
+      "lastMatchId": "IFcI8RXg",
+      "lastMatchDate": 1793660400000,
       "recent": [
+        {
+          "id": "IFcI8RXg",
+          "date": 1793660400000,
+          "home": "Red Bull Bragantino",
+          "away": "Santos",
+          "hg": 2,
+          "ag": 1,
+          "round": "Rodada 34",
+          "points": 3,
+          "opponent": "Santos",
+          "venue": "Casa",
+          "score": "2–1"
+        },
         {
           "id": "faJea2wq",
           "date": 1793226600000,
@@ -1262,23 +1275,10 @@
           "opponent": "Bahia",
           "venue": "Casa",
           "score": "2–3"
-        },
-        {
-          "id": "lAzR6ySP",
-          "date": 1788044400000,
-          "home": "São Paulo",
-          "away": "Red Bull Bragantino",
-          "hg": 2,
-          "ag": 1,
-          "round": "Rodada 25",
-          "points": 0,
-          "opponent": "São Paulo",
-          "venue": "Fora",
-          "score": "1–2"
         }
       ],
-      "goalsFor": 42,
-      "goalsAgainst": 38
+      "goalsFor": 44,
+      "goalsAgainst": 39
     },
     {
       "id": 126,
