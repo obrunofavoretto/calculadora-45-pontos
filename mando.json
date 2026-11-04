@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-04T00:12:46.602622+00:00",
+  "fetchedAt": "2026-11-04T06:24:26.054883+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -96,13 +96,13 @@
       "id": 132,
       "name": "Chapecoense",
       "home": {
-        "played": 15,
+        "played": 16,
         "points": 14,
         "wins": 3,
         "draws": 5,
-        "losses": 7,
-        "goalsFor": 21,
-        "goalsAgainst": 34
+        "losses": 8,
+        "goalsFor": 22,
+        "goalsAgainst": 36
       },
       "away": {
         "played": 17,
@@ -149,13 +149,13 @@
         "goalsAgainst": 21
       },
       "away": {
-        "played": 16,
+        "played": 17,
         "points": 19,
         "wins": 5,
         "draws": 4,
-        "losses": 7,
+        "losses": 8,
         "goalsFor": 18,
-        "goalsAgainst": 29
+        "goalsAgainst": 30
       }
     },
     {
@@ -250,12 +250,12 @@
       "id": 119,
       "name": "Internacional",
       "home": {
-        "played": 16,
-        "points": 20,
-        "wins": 5,
+        "played": 17,
+        "points": 23,
+        "wins": 6,
         "draws": 5,
         "losses": 6,
-        "goalsFor": 21,
+        "goalsFor": 22,
         "goalsAgainst": 17
       },
       "away": {
@@ -281,13 +281,13 @@
         "goalsAgainst": 22
       },
       "away": {
-        "played": 16,
-        "points": 10,
-        "wins": 2,
+        "played": 17,
+        "points": 13,
+        "wins": 3,
         "draws": 4,
         "losses": 10,
-        "goalsFor": 13,
-        "goalsAgainst": 25
+        "goalsFor": 15,
+        "goalsAgainst": 26
       }
     },
     {
