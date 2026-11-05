@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T01:48:47.947404+00:00",
+  "fetchedAt": "2026-11-05T09:29:53.728117+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -554,15 +554,15 @@
           "score": "3–3"
         },
         {
-          "id": "EcuFLwxe",
-          "date": 1787425200000,
+          "id": "QNNd7bP6",
+          "date": 1777246200000,
           "home": "Fluminense",
-          "away": "Remo",
+          "away": "Chapecoense",
           "hg": 2,
           "ag": 1,
-          "round": "Rodada 24",
+          "round": "",
           "points": 3,
-          "opponent": "Remo",
+          "opponent": "Chapecoense",
           "venue": "Casa",
           "score": "2–1"
         }
@@ -838,15 +838,15 @@
           "score": "1–3"
         },
         {
-          "id": "n3LkYGL0",
-          "date": 1787441400000,
+          "id": "xIDrcTJk",
+          "date": 1779649200000,
           "home": "Cruzeiro",
-          "away": "Flamengo",
+          "away": "Chapecoense",
           "hg": 2,
           "ag": 1,
-          "round": "Rodada 24",
+          "round": "",
           "points": 3,
-          "opponent": "Flamengo",
+          "opponent": "Chapecoense",
           "venue": "Casa",
           "score": "2–1"
         }
@@ -858,10 +858,23 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "points": 50,
-      "played": 33,
-      "lastMatchId": "lbC4ct8e",
-      "lastMatchDate": 1793313000000,
+      "played": 34,
+      "lastMatchId": "ETBhh6mD",
+      "lastMatchDate": 1793838600000,
       "recent": [
+        {
+          "id": "ETBhh6mD",
+          "date": 1793838600000,
+          "home": "Botafogo",
+          "away": "Atlético-MG",
+          "hg": 1,
+          "ag": 0,
+          "round": "Rodada 34",
+          "points": 0,
+          "opponent": "Botafogo",
+          "venue": "Fora",
+          "score": "0–1"
+        },
         {
           "id": "lbC4ct8e",
           "date": 1793313000000,
@@ -978,23 +991,10 @@
           "opponent": "São Paulo",
           "venue": "Fora",
           "score": "0–2"
-        },
-        {
-          "id": "z78EcXlC",
-          "date": 1788039000000,
-          "home": "Atlético-MG",
-          "away": "Vitória",
-          "hg": 2,
-          "ag": 1,
-          "round": "Rodada 25",
-          "points": 3,
-          "opponent": "Vitória",
-          "venue": "Casa",
-          "score": "2–1"
         }
       ],
       "goalsFor": 44,
-      "goalsAgainst": 39
+      "goalsAgainst": 40
     },
     {
       "id": 128,
@@ -1283,11 +1283,24 @@
     {
       "id": 126,
       "name": "São Paulo",
-      "points": 43,
-      "played": 33,
-      "lastMatchId": "nDr51AQQ",
-      "lastMatchDate": 1793233800000,
+      "points": 44,
+      "played": 34,
+      "lastMatchId": "6NbvG9uK",
+      "lastMatchDate": 1793838600000,
       "recent": [
+        {
+          "id": "6NbvG9uK",
+          "date": 1793838600000,
+          "home": "São Paulo",
+          "away": "Corinthians",
+          "hg": 0,
+          "ag": 0,
+          "round": "Rodada 34",
+          "points": 1,
+          "opponent": "Corinthians",
+          "venue": "Casa",
+          "score": "0–0"
+        },
         {
           "id": "nDr51AQQ",
           "date": 1793233800000,
@@ -1404,19 +1417,6 @@
           "opponent": "Atlético-MG",
           "venue": "Casa",
           "score": "2–0"
-        },
-        {
-          "id": "lAzR6ySP",
-          "date": 1788044400000,
-          "home": "São Paulo",
-          "away": "Red Bull Bragantino",
-          "hg": 2,
-          "ag": 1,
-          "round": "Rodada 25",
-          "points": 3,
-          "opponent": "Red Bull Bragantino",
-          "venue": "Casa",
-          "score": "2–1"
         }
       ],
       "goalsFor": 39,
@@ -1709,11 +1709,24 @@
     {
       "id": 120,
       "name": "Botafogo",
-      "points": 39,
-      "played": 33,
-      "lastMatchId": "WpKydlll",
-      "lastMatchDate": 1793233800000,
+      "points": 42,
+      "played": 34,
+      "lastMatchId": "ETBhh6mD",
+      "lastMatchDate": 1793838600000,
       "recent": [
+        {
+          "id": "ETBhh6mD",
+          "date": 1793838600000,
+          "home": "Botafogo",
+          "away": "Atlético-MG",
+          "hg": 1,
+          "ag": 0,
+          "round": "Rodada 34",
+          "points": 3,
+          "opponent": "Atlético-MG",
+          "venue": "Casa",
+          "score": "1–0"
+        },
         {
           "id": "WpKydlll",
           "date": 1793233800000,
@@ -1830,22 +1843,9 @@
           "opponent": "Palmeiras",
           "venue": "Casa",
           "score": "0–0"
-        },
-        {
-          "id": "0lfWpf56",
-          "date": 1788116400000,
-          "home": "Flamengo",
-          "away": "Botafogo",
-          "hg": 3,
-          "ag": 0,
-          "round": "Rodada 25",
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Fora",
-          "score": "0–3"
         }
       ],
-      "goalsFor": 45,
+      "goalsFor": 46,
       "goalsAgainst": 53
     },
     {
@@ -2135,11 +2135,24 @@
     {
       "id": 131,
       "name": "Corinthians",
-      "points": 36,
-      "played": 33,
-      "lastMatchId": "OGSP4OFL",
-      "lastMatchDate": 1793401200000,
+      "points": 37,
+      "played": 34,
+      "lastMatchId": "6NbvG9uK",
+      "lastMatchDate": 1793838600000,
       "recent": [
+        {
+          "id": "6NbvG9uK",
+          "date": 1793838600000,
+          "home": "São Paulo",
+          "away": "Corinthians",
+          "hg": 0,
+          "ag": 0,
+          "round": "Rodada 34",
+          "points": 1,
+          "opponent": "São Paulo",
+          "venue": "Fora",
+          "score": "0–0"
+        },
         {
           "id": "OGSP4OFL",
           "date": 1793401200000,
@@ -2256,19 +2269,6 @@
           "opponent": "Santos",
           "venue": "Casa",
           "score": "0–1"
-        },
-        {
-          "id": "zP1pfbrK",
-          "date": 1787524200000,
-          "home": "Coritiba",
-          "away": "Corinthians",
-          "hg": 2,
-          "ag": 1,
-          "round": "Rodada 24",
-          "points": 0,
-          "opponent": "Coritiba",
-          "venue": "Fora",
-          "score": "1–2"
         }
       ],
       "goalsFor": 36,
@@ -2684,17 +2684,17 @@
           "score": "2–3"
         },
         {
-          "id": "EcuFLwxe",
-          "date": 1787425200000,
-          "home": "Fluminense",
+          "id": "d0XS2bjB",
+          "date": 1779053400000,
+          "home": "Chapecoense",
           "away": "Remo",
           "hg": 2,
-          "ag": 1,
-          "round": "Rodada 24",
-          "points": 0,
-          "opponent": "Fluminense",
+          "ag": 3,
+          "round": "",
+          "points": 3,
+          "opponent": "Chapecoense",
           "venue": "Fora",
-          "score": "1–2"
+          "score": "3–2"
         }
       ],
       "goalsFor": 36,
