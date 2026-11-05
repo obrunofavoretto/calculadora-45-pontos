@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-04T21:21:04.768401+00:00",
+  "fetchedAt": "2026-11-05T01:48:48.302858+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -8,13 +8,13 @@
       "id": 134,
       "name": "Athletico Paranaense",
       "home": {
-        "played": 16,
+        "played": 17,
         "points": 32,
         "wins": 9,
         "draws": 5,
-        "losses": 2,
-        "goalsFor": 27,
-        "goalsAgainst": 15
+        "losses": 3,
+        "goalsFor": 28,
+        "goalsAgainst": 18
       },
       "away": {
         "played": 17,
@@ -184,13 +184,13 @@
       "id": 127,
       "name": "Flamengo",
       "home": {
-        "played": 16,
-        "points": 39,
-        "wins": 12,
+        "played": 17,
+        "points": 42,
+        "wins": 13,
         "draws": 3,
         "losses": 1,
-        "goalsFor": 32,
-        "goalsAgainst": 12
+        "goalsFor": 35,
+        "goalsAgainst": 13
       },
       "away": {
         "played": 17,
@@ -237,13 +237,13 @@
         "goalsAgainst": 21
       },
       "away": {
-        "played": 16,
+        "played": 17,
         "points": 8,
         "wins": 1,
         "draws": 5,
-        "losses": 10,
-        "goalsFor": 10,
-        "goalsAgainst": 23
+        "losses": 11,
+        "goalsFor": 11,
+        "goalsAgainst": 26
       }
     },
     {
@@ -413,13 +413,13 @@
         "goalsAgainst": 24
       },
       "away": {
-        "played": 15,
-        "points": 11,
-        "wins": 2,
+        "played": 16,
+        "points": 14,
+        "wins": 3,
         "draws": 5,
         "losses": 8,
-        "goalsFor": 15,
-        "goalsAgainst": 25
+        "goalsFor": 18,
+        "goalsAgainst": 26
       }
     },
     {
