@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T23:32:00.641772+00:00",
+  "fetchedAt": "2026-11-07T03:13:54.138817+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -431,11 +431,24 @@
     {
       "id": 124,
       "name": "Fluminense",
-      "points": 54,
-      "played": 33,
-      "lastMatchId": "UsHUp3Ok",
-      "lastMatchDate": 1793226600000,
+      "points": 57,
+      "played": 34,
+      "lastMatchId": "YkfgAv9b",
+      "lastMatchDate": 1794006000000,
       "recent": [
+        {
+          "id": "YkfgAv9b",
+          "date": 1794006000000,
+          "home": "Vitória",
+          "away": "Fluminense",
+          "hg": 0,
+          "ag": 3,
+          "round": "Rodada 34",
+          "points": 3,
+          "opponent": "Vitória",
+          "venue": "Fora",
+          "score": "3–0"
+        },
         {
           "id": "UsHUp3Ok",
           "date": 1793226600000,
@@ -552,22 +565,9 @@
           "opponent": "Athletico-PR",
           "venue": "Fora",
           "score": "3–3"
-        },
-        {
-          "id": "QNNd7bP6",
-          "date": 1777246200000,
-          "home": "Fluminense",
-          "away": "Chapecoense",
-          "hg": 2,
-          "ag": 1,
-          "round": "",
-          "points": 3,
-          "opponent": "Chapecoense",
-          "venue": "Casa",
-          "score": "2–1"
         }
       ],
-      "goalsFor": 52,
+      "goalsFor": 55,
       "goalsAgainst": 42
     },
     {
@@ -1568,10 +1568,23 @@
       "id": 136,
       "name": "Vitória",
       "points": 38,
-      "played": 33,
-      "lastMatchId": "vmuc3WeE",
-      "lastMatchDate": 1793473200000,
+      "played": 34,
+      "lastMatchId": "YkfgAv9b",
+      "lastMatchDate": 1794006000000,
       "recent": [
+        {
+          "id": "YkfgAv9b",
+          "date": 1794006000000,
+          "home": "Vitória",
+          "away": "Fluminense",
+          "hg": 0,
+          "ag": 3,
+          "round": "Rodada 34",
+          "points": 0,
+          "opponent": "Fluminense",
+          "venue": "Casa",
+          "score": "0–3"
+        },
         {
           "id": "vmuc3WeE",
           "date": 1793473200000,
@@ -1688,23 +1701,10 @@
           "opponent": "Atlético-MG",
           "venue": "Fora",
           "score": "1–2"
-        },
-        {
-          "id": "67hGlx6s",
-          "date": 1787511600000,
-          "home": "Vitória",
-          "away": "Bahia",
-          "hg": 0,
-          "ag": 2,
-          "round": "Rodada 24",
-          "points": 0,
-          "opponent": "Bahia",
-          "venue": "Casa",
-          "score": "0–2"
         }
       ],
       "goalsFor": 35,
-      "goalsAgainst": 48
+      "goalsAgainst": 51
     },
     {
       "id": 120,

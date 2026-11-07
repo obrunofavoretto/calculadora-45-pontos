@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-06T23:32:00.976097+00:00",
+  "fetchedAt": "2026-11-07T03:13:54.482172+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -215,12 +215,12 @@
         "goalsAgainst": 17
       },
       "away": {
-        "played": 16,
-        "points": 15,
-        "wins": 3,
+        "played": 17,
+        "points": 18,
+        "wins": 4,
         "draws": 6,
         "losses": 7,
-        "goalsFor": 21,
+        "goalsFor": 24,
         "goalsAgainst": 25
       }
     },
@@ -426,13 +426,13 @@
       "id": 136,
       "name": "Vitória",
       "home": {
-        "played": 16,
+        "played": 17,
         "points": 32,
         "wins": 10,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 23,
-        "goalsAgainst": 13
+        "goalsAgainst": 16
       },
       "away": {
         "played": 17,
