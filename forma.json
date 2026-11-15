@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T22:58:44.166129+00:00",
+  "fetchedAt": "2026-11-15T02:39:32.906364+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -857,11 +857,24 @@
     {
       "id": 1062,
       "name": "Atlético Mineiro",
-      "points": 50,
-      "played": 34,
-      "lastMatchId": "ETBhh6mD",
-      "lastMatchDate": 1793838600000,
+      "points": 51,
+      "played": 35,
+      "lastMatchId": "v9YyLeNG",
+      "lastMatchDate": 1794691800000,
       "recent": [
+        {
+          "id": "v9YyLeNG",
+          "date": 1794691800000,
+          "home": "Mirassol",
+          "away": "Atlético-MG",
+          "hg": 0,
+          "ag": 0,
+          "round": "Rodada 35",
+          "points": 1,
+          "opponent": "Mirassol",
+          "venue": "Fora",
+          "score": "0–0"
+        },
         {
           "id": "ETBhh6mD",
           "date": 1793838600000,
@@ -978,19 +991,6 @@
           "opponent": "Fluminense",
           "venue": "Casa",
           "score": "3–1"
-        },
-        {
-          "id": "8Y38F5Ac",
-          "date": 1788643800000,
-          "home": "São Paulo",
-          "away": "Atlético-MG",
-          "hg": 2,
-          "ag": 0,
-          "round": "Rodada 26",
-          "points": 0,
-          "opponent": "São Paulo",
-          "venue": "Fora",
-          "score": "0–2"
         }
       ],
       "goalsFor": 44,
@@ -1851,11 +1851,24 @@
     {
       "id": 7848,
       "name": "Mirassol",
-      "points": 40,
-      "played": 34,
-      "lastMatchId": "hhAf8IwB",
-      "lastMatchDate": 1793745000000,
+      "points": 41,
+      "played": 35,
+      "lastMatchId": "v9YyLeNG",
+      "lastMatchDate": 1794691800000,
       "recent": [
+        {
+          "id": "v9YyLeNG",
+          "date": 1794691800000,
+          "home": "Mirassol",
+          "away": "Atlético-MG",
+          "hg": 0,
+          "ag": 0,
+          "round": "Rodada 35",
+          "points": 1,
+          "opponent": "Atlético-MG",
+          "venue": "Casa",
+          "score": "0–0"
+        },
         {
           "id": "hhAf8IwB",
           "date": 1793745000000,
@@ -1972,19 +1985,6 @@
           "opponent": "Coritiba",
           "venue": "Fora",
           "score": "2–1"
-        },
-        {
-          "id": "QeX6IHJ8",
-          "date": 1788388200000,
-          "home": "Flamengo",
-          "away": "Mirassol",
-          "hg": 2,
-          "ag": 0,
-          "round": "Rodada 4",
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Fora",
-          "score": "0–2"
         }
       ],
       "goalsFor": 39,
@@ -1993,11 +1993,24 @@
     {
       "id": 133,
       "name": "Vasco da Gama",
-      "points": 41,
-      "played": 33,
-      "lastMatchId": "0xdoC0vn",
-      "lastMatchDate": 1793831400000,
+      "points": 44,
+      "played": 34,
+      "lastMatchId": "ARJ356Ua",
+      "lastMatchDate": 1794699000000,
       "recent": [
+        {
+          "id": "ARJ356Ua",
+          "date": 1794699000000,
+          "home": "Chapecoense",
+          "away": "Vasco",
+          "hg": 0,
+          "ag": 2,
+          "round": "",
+          "points": 3,
+          "opponent": "Chapecoense",
+          "venue": "Fora",
+          "score": "2–0"
+        },
         {
           "id": "0xdoC0vn",
           "date": 1793831400000,
@@ -2114,22 +2127,9 @@
           "opponent": "Fluminense",
           "venue": "Fora",
           "score": "0–1"
-        },
-        {
-          "id": "dGmuqYZI",
-          "date": 1788049200000,
-          "home": "Vasco",
-          "away": "Cruzeiro",
-          "hg": 3,
-          "ag": 1,
-          "round": "",
-          "points": 3,
-          "opponent": "Cruzeiro",
-          "venue": "Casa",
-          "score": "3–1"
         }
       ],
-      "goalsFor": 43,
+      "goalsFor": 45,
       "goalsAgainst": 50
     },
     {
@@ -2704,10 +2704,23 @@
       "id": 132,
       "name": "Chapecoense",
       "points": 21,
-      "played": 33,
-      "lastMatchId": "hhAf8IwB",
-      "lastMatchDate": 1793745000000,
+      "played": 34,
+      "lastMatchId": "ARJ356Ua",
+      "lastMatchDate": 1794699000000,
       "recent": [
+        {
+          "id": "ARJ356Ua",
+          "date": 1794699000000,
+          "home": "Chapecoense",
+          "away": "Vasco",
+          "hg": 0,
+          "ag": 2,
+          "round": "",
+          "points": 0,
+          "opponent": "Vasco",
+          "venue": "Casa",
+          "score": "0–2"
+        },
         {
           "id": "hhAf8IwB",
           "date": 1793745000000,
@@ -2824,23 +2837,10 @@
           "opponent": "Corinthians",
           "venue": "Fora",
           "score": "2–1"
-        },
-        {
-          "id": "rXBMeBJO",
-          "date": 1788125400000,
-          "home": "Grêmio",
-          "away": "Chapecoense",
-          "hg": 3,
-          "ag": 1,
-          "round": "",
-          "points": 0,
-          "opponent": "Grêmio",
-          "venue": "Fora",
-          "score": "1–3"
         }
       ],
       "goalsFor": 33,
-      "goalsAgainst": 68
+      "goalsAgainst": 70
     }
   ],
   "status": "updated",
