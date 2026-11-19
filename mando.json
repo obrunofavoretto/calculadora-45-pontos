@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-18T19:37:52.520559+00:00",
+  "fetchedAt": "2026-11-19T01:30:40.868944+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -17,13 +17,13 @@
         "goalsAgainst": 18
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 22,
         "wins": 6,
         "draws": 4,
-        "losses": 7,
-        "goalsFor": 23,
-        "goalsAgainst": 25
+        "losses": 8,
+        "goalsFor": 24,
+        "goalsAgainst": 27
       }
     },
     {
@@ -105,13 +105,13 @@
         "goalsAgainst": 38
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 7,
         "wins": 1,
         "draws": 4,
-        "losses": 12,
+        "losses": 13,
         "goalsFor": 11,
-        "goalsAgainst": 32
+        "goalsAgainst": 34
       }
     },
     {
@@ -140,13 +140,13 @@
       "id": 147,
       "name": "Coritiba",
       "home": {
-        "played": 17,
+        "played": 18,
         "points": 23,
         "wins": 6,
         "draws": 5,
-        "losses": 6,
+        "losses": 7,
         "goalsFor": 22,
-        "goalsAgainst": 21
+        "goalsAgainst": 22
       },
       "away": {
         "played": 17,
@@ -162,13 +162,13 @@
       "id": 135,
       "name": "Cruzeiro",
       "home": {
-        "played": 17,
-        "points": 34,
-        "wins": 10,
+        "played": 18,
+        "points": 37,
+        "wins": 11,
         "draws": 4,
         "losses": 3,
-        "goalsFor": 30,
-        "goalsAgainst": 18
+        "goalsFor": 32,
+        "goalsAgainst": 19
       },
       "away": {
         "played": 17,
@@ -184,13 +184,13 @@
       "id": 127,
       "name": "Flamengo",
       "home": {
-        "played": 17,
-        "points": 42,
-        "wins": 13,
+        "played": 18,
+        "points": 45,
+        "wins": 14,
         "draws": 3,
         "losses": 1,
-        "goalsFor": 35,
-        "goalsAgainst": 13
+        "goalsFor": 37,
+        "goalsAgainst": 14
       },
       "away": {
         "played": 17,
@@ -303,13 +303,13 @@
         "goalsAgainst": 11
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 31,
         "wins": 8,
         "draws": 7,
-        "losses": 2,
-        "goalsFor": 26,
-        "goalsAgainst": 12
+        "losses": 3,
+        "goalsFor": 27,
+        "goalsAgainst": 14
       }
     },
     {
@@ -338,12 +338,12 @@
       "id": 1198,
       "name": "Remo",
       "home": {
-        "played": 17,
-        "points": 19,
-        "wins": 4,
+        "played": 18,
+        "points": 22,
+        "wins": 5,
         "draws": 7,
         "losses": 6,
-        "goalsFor": 22,
+        "goalsFor": 24,
         "goalsAgainst": 22
       },
       "away": {
@@ -369,12 +369,12 @@
         "goalsAgainst": 21
       },
       "away": {
-        "played": 17,
-        "points": 22,
-        "wins": 6,
+        "played": 18,
+        "points": 25,
+        "wins": 7,
         "draws": 4,
         "losses": 7,
-        "goalsFor": 27,
+        "goalsFor": 28,
         "goalsAgainst": 28
       }
     },

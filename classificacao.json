@@ -1,12 +1,12 @@
 {
   "league": 71,
   "season": 2026,
-  "fetchedAt": "2026-11-18T19:37:49.546170+00:00",
+  "fetchedAt": "2026-11-19T01:30:38.504093+00:00",
   "sourceUpdatedAt": null,
   "source": "Wikipédia — colaboradores do artigo",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "sourceHistoryUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A?action=history",
-  "sourceRevision": "73491094",
+  "sourceRevision": "73494073",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "notice": "Extração e normalização dos pontos e jogos da tabela comunitária. A data de consulta não garante atualização após cada partida.",
@@ -14,20 +14,20 @@
     {
       "id": 127,
       "name": "Flamengo",
-      "points": 76,
-      "played": 34
+      "points": 79,
+      "played": 35
     },
     {
       "id": 121,
       "name": "Palmeiras",
       "points": 73,
-      "played": 34
+      "played": 35
     },
     {
       "id": 135,
       "name": "Cruzeiro",
-      "points": 60,
-      "played": 34
+      "points": 63,
+      "played": 35
     },
     {
       "id": 124,
@@ -39,7 +39,7 @@
       "id": 134,
       "name": "Athletico Paranaense",
       "points": 54,
-      "played": 34
+      "played": 35
     },
     {
       "id": 118,
@@ -54,14 +54,14 @@
       "played": 35
     },
     {
-      "id": 794,
-      "name": "Red Bull Bragantino",
-      "points": 47,
-      "played": 34
-    },
-    {
       "id": 128,
       "name": "Santos",
+      "points": 50,
+      "played": 35
+    },
+    {
+      "id": 794,
+      "name": "Red Bull Bragantino",
       "points": 47,
       "played": 34
     },
@@ -87,7 +87,7 @@
       "id": 147,
       "name": "Coritiba",
       "points": 42,
-      "played": 34
+      "played": 35
     },
     {
       "id": 7848,
@@ -122,14 +122,14 @@
     {
       "id": 1198,
       "name": "Remo",
-      "points": 29,
-      "played": 34
+      "points": 32,
+      "played": 35
     },
     {
       "id": 132,
       "name": "Chapecoense",
       "points": 21,
-      "played": 34
+      "played": 35
     }
   ]
 }
