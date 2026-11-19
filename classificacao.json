@@ -1,12 +1,12 @@
 {
   "league": 71,
   "season": 2026,
-  "fetchedAt": "2026-11-19T01:30:38.504093+00:00",
+  "fetchedAt": "2026-11-19T09:30:25.261664+00:00",
   "sourceUpdatedAt": null,
   "source": "Wikipédia — colaboradores do artigo",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "sourceHistoryUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A?action=history",
-  "sourceRevision": "73494073",
+  "sourceRevision": "73494819",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "notice": "Extração e normalização dos pontos e jogos da tabela comunitária. A data de consulta não garante atualização após cada partida.",
@@ -44,8 +44,8 @@
     {
       "id": 118,
       "name": "Bahia",
-      "points": 53,
-      "played": 34
+      "points": 54,
+      "played": 35
     },
     {
       "id": 1062,
@@ -81,7 +81,7 @@
       "id": 120,
       "name": "Botafogo",
       "points": 42,
-      "played": 34
+      "played": 35
     },
     {
       "id": 147,
@@ -93,6 +93,12 @@
       "id": 7848,
       "name": "Mirassol",
       "points": 41,
+      "played": 35
+    },
+    {
+      "id": 131,
+      "name": "Corinthians",
+      "points": 40,
       "played": 35
     },
     {
@@ -108,16 +114,10 @@
       "played": 34
     },
     {
-      "id": 131,
-      "name": "Corinthians",
-      "points": 37,
-      "played": 34
-    },
-    {
       "id": 130,
       "name": "Grêmio[b]",
-      "points": 37,
-      "played": 34
+      "points": 38,
+      "played": 35
     },
     {
       "id": 1198,
