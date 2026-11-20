@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T18:41:01.268526+00:00",
+  "fetchedAt": "2026-11-20T00:55:43.667603+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -1142,10 +1142,23 @@
       "id": 794,
       "name": "Red Bull Bragantino",
       "points": 47,
-      "played": 34,
-      "lastMatchId": "IFcI8RXg",
-      "lastMatchDate": 1793660400000,
+      "played": 35,
+      "lastMatchId": "Kt9AZfxA",
+      "lastMatchDate": 1795127400000,
       "recent": [
+        {
+          "id": "Kt9AZfxA",
+          "date": 1795127400000,
+          "home": "Vitória",
+          "away": "Red Bull Bragantino",
+          "hg": 2,
+          "ag": 1,
+          "round": "Rodada 35",
+          "points": 0,
+          "opponent": "Vitória",
+          "venue": "Fora",
+          "score": "1–2"
+        },
         {
           "id": "IFcI8RXg",
           "date": 1793660400000,
@@ -1262,23 +1275,10 @@
           "opponent": "Botafogo",
           "venue": "Fora",
           "score": "1–1"
-        },
-        {
-          "id": "MeAOBN9M",
-          "date": 1788634800000,
-          "home": "Red Bull Bragantino",
-          "away": "Bahia",
-          "hg": 2,
-          "ag": 3,
-          "round": "Rodada 26",
-          "points": 0,
-          "opponent": "Bahia",
-          "venue": "Casa",
-          "score": "2–3"
         }
       ],
-      "goalsFor": 44,
-      "goalsAgainst": 39
+      "goalsFor": 45,
+      "goalsAgainst": 41
     },
     {
       "id": 126,
@@ -1567,11 +1567,24 @@
     {
       "id": 136,
       "name": "Vitória",
-      "points": 38,
-      "played": 34,
-      "lastMatchId": "YkfgAv9b",
-      "lastMatchDate": 1794006000000,
+      "points": 41,
+      "played": 35,
+      "lastMatchId": "Kt9AZfxA",
+      "lastMatchDate": 1795127400000,
       "recent": [
+        {
+          "id": "Kt9AZfxA",
+          "date": 1795127400000,
+          "home": "Vitória",
+          "away": "Red Bull Bragantino",
+          "hg": 2,
+          "ag": 1,
+          "round": "Rodada 35",
+          "points": 3,
+          "opponent": "Red Bull Bragantino",
+          "venue": "Casa",
+          "score": "2–1"
+        },
         {
           "id": "YkfgAv9b",
           "date": 1794006000000,
@@ -1688,23 +1701,10 @@
           "opponent": "Grêmio",
           "venue": "Casa",
           "score": "1–0"
-        },
-        {
-          "id": "80AlZsl4",
-          "date": 1784241000000,
-          "home": "Vitória",
-          "away": "Vasco",
-          "hg": 1,
-          "ag": 0,
-          "round": "",
-          "points": 3,
-          "opponent": "Vasco",
-          "venue": "Casa",
-          "score": "1–0"
         }
       ],
-      "goalsFor": 35,
-      "goalsAgainst": 51
+      "goalsFor": 37,
+      "goalsAgainst": 52
     },
     {
       "id": 120,
@@ -1993,11 +1993,24 @@
     {
       "id": 133,
       "name": "Vasco da Gama",
-      "points": 44,
-      "played": 34,
-      "lastMatchId": "ARJ356Ua",
-      "lastMatchDate": 1794699000000,
+      "points": 47,
+      "played": 35,
+      "lastMatchId": "pjkZ0zWp",
+      "lastMatchDate": 1795127400000,
       "recent": [
+        {
+          "id": "pjkZ0zWp",
+          "date": 1795127400000,
+          "home": "Vasco",
+          "away": "Internacional",
+          "hg": 2,
+          "ag": 1,
+          "round": "",
+          "points": 3,
+          "opponent": "Internacional",
+          "venue": "Casa",
+          "score": "2–1"
+        },
         {
           "id": "ARJ356Ua",
           "date": 1794699000000,
@@ -2114,23 +2127,10 @@
           "opponent": "Grêmio",
           "venue": "Fora",
           "score": "2–1"
-        },
-        {
-          "id": "MwalAAYH",
-          "date": 1788652800000,
-          "home": "Fluminense",
-          "away": "Vasco",
-          "hg": 1,
-          "ag": 0,
-          "round": "",
-          "points": 0,
-          "opponent": "Fluminense",
-          "venue": "Fora",
-          "score": "0–1"
         }
       ],
-      "goalsFor": 45,
-      "goalsAgainst": 50
+      "goalsFor": 47,
+      "goalsAgainst": 51
     },
     {
       "id": 131,
@@ -2278,10 +2278,23 @@
       "id": 119,
       "name": "Internacional",
       "points": 38,
-      "played": 34,
-      "lastMatchId": "nekZ4qXI",
-      "lastMatchDate": 1793752200000,
+      "played": 35,
+      "lastMatchId": "pjkZ0zWp",
+      "lastMatchDate": 1795127400000,
       "recent": [
+        {
+          "id": "pjkZ0zWp",
+          "date": 1795127400000,
+          "home": "Vasco",
+          "away": "Internacional",
+          "hg": 2,
+          "ag": 1,
+          "round": "",
+          "points": 0,
+          "opponent": "Vasco",
+          "venue": "Fora",
+          "score": "1–2"
+        },
         {
           "id": "nekZ4qXI",
           "date": 1793752200000,
@@ -2398,23 +2411,10 @@
           "opponent": "Santos",
           "venue": "Casa",
           "score": "2–3"
-        },
-        {
-          "id": "v9Y9nw6U",
-          "date": 1778967000000,
-          "home": "Internacional",
-          "away": "Vasco",
-          "hg": 4,
-          "ag": 1,
-          "round": "",
-          "points": 3,
-          "opponent": "Vasco",
-          "venue": "Casa",
-          "score": "4–1"
         }
       ],
-      "goalsFor": 38,
-      "goalsAgainst": 42
+      "goalsFor": 39,
+      "goalsAgainst": 44
     },
     {
       "id": 130,

@@ -1,7 +1,7 @@
 {
   "current": {
     "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T18:40:58.892925+00:00",
+    "fetchedAt": "2026-11-20T00:55:40.751175+00:00",
     "teams": [
       {
         "id": 127,
@@ -55,17 +55,17 @@
         "id": 794,
         "name": "Red Bull Bragantino",
         "points": 47,
-        "played": 34
-      },
-      {
-        "id": 126,
-        "name": "São Paulo",
-        "points": 44,
-        "played": 34
+        "played": 35
       },
       {
         "id": 133,
         "name": "Vasco da Gama",
+        "points": 47,
+        "played": 35
+      },
+      {
+        "id": 126,
+        "name": "São Paulo",
         "points": 44,
         "played": 34
       },
@@ -82,6 +82,12 @@
         "played": 35
       },
       {
+        "id": 136,
+        "name": "Vitória",
+        "points": 41,
+        "played": 35
+      },
+      {
         "id": 7848,
         "name": "Mirassol",
         "points": 41,
@@ -94,16 +100,10 @@
         "played": 35
       },
       {
-        "id": 136,
-        "name": "Vitória",
-        "points": 38,
-        "played": 34
-      },
-      {
         "id": 119,
         "name": "Internacional",
         "points": 38,
-        "played": 34
+        "played": 35
       },
       {
         "id": 130,
@@ -2881,6 +2881,132 @@
           "name": "Internacional",
           "points": 38,
           "played": 34
+        },
+        {
+          "id": 130,
+          "name": "Grêmio[b]",
+          "points": 38,
+          "played": 35
+        },
+        {
+          "id": 1198,
+          "name": "Remo",
+          "points": 32,
+          "played": 35
+        },
+        {
+          "id": 132,
+          "name": "Chapecoense",
+          "points": 21,
+          "played": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "fetchedAt": "2026-11-20T00:55:40.751175+00:00",
+      "teams": [
+        {
+          "id": 127,
+          "name": "Flamengo",
+          "points": 79,
+          "played": 35
+        },
+        {
+          "id": 121,
+          "name": "Palmeiras",
+          "points": 73,
+          "played": 35
+        },
+        {
+          "id": 135,
+          "name": "Cruzeiro",
+          "points": 63,
+          "played": 35
+        },
+        {
+          "id": 124,
+          "name": "Fluminense",
+          "points": 57,
+          "played": 34
+        },
+        {
+          "id": 134,
+          "name": "Athletico Paranaense",
+          "points": 54,
+          "played": 35
+        },
+        {
+          "id": 118,
+          "name": "Bahia",
+          "points": 54,
+          "played": 35
+        },
+        {
+          "id": 1062,
+          "name": "Atlético Mineiro",
+          "points": 51,
+          "played": 35
+        },
+        {
+          "id": 128,
+          "name": "Santos",
+          "points": 50,
+          "played": 35
+        },
+        {
+          "id": 794,
+          "name": "Red Bull Bragantino",
+          "points": 47,
+          "played": 35
+        },
+        {
+          "id": 133,
+          "name": "Vasco da Gama",
+          "points": 47,
+          "played": 35
+        },
+        {
+          "id": 126,
+          "name": "São Paulo",
+          "points": 44,
+          "played": 34
+        },
+        {
+          "id": 120,
+          "name": "Botafogo",
+          "points": 42,
+          "played": 35
+        },
+        {
+          "id": 147,
+          "name": "Coritiba",
+          "points": 42,
+          "played": 35
+        },
+        {
+          "id": 136,
+          "name": "Vitória",
+          "points": 41,
+          "played": 35
+        },
+        {
+          "id": 7848,
+          "name": "Mirassol",
+          "points": 41,
+          "played": 35
+        },
+        {
+          "id": 131,
+          "name": "Corinthians",
+          "points": 40,
+          "played": 35
+        },
+        {
+          "id": 119,
+          "name": "Internacional",
+          "points": 38,
+          "played": 35
         },
         {
           "id": 130,

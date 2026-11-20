@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-19T18:41:02.044675+00:00",
+  "fetchedAt": "2026-11-20T00:55:44.244083+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -259,13 +259,13 @@
         "goalsAgainst": 17
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 15,
         "wins": 3,
         "draws": 6,
-        "losses": 8,
-        "goalsFor": 16,
-        "goalsAgainst": 25
+        "losses": 9,
+        "goalsFor": 17,
+        "goalsAgainst": 27
       }
     },
     {
@@ -325,13 +325,13 @@
         "goalsAgainst": 18
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 17,
         "wins": 4,
         "draws": 5,
-        "losses": 8,
-        "goalsFor": 15,
-        "goalsAgainst": 21
+        "losses": 9,
+        "goalsFor": 16,
+        "goalsAgainst": 23
       }
     },
     {
@@ -404,13 +404,13 @@
       "id": 133,
       "name": "Vasco da Gama",
       "home": {
-        "played": 17,
-        "points": 27,
-        "wins": 8,
+        "played": 18,
+        "points": 30,
+        "wins": 9,
         "draws": 3,
         "losses": 6,
-        "goalsFor": 25,
-        "goalsAgainst": 24
+        "goalsFor": 27,
+        "goalsAgainst": 25
       },
       "away": {
         "played": 17,
@@ -426,13 +426,13 @@
       "id": 136,
       "name": "Vitória",
       "home": {
-        "played": 17,
-        "points": 32,
-        "wins": 10,
+        "played": 18,
+        "points": 35,
+        "wins": 11,
         "draws": 2,
         "losses": 5,
-        "goalsFor": 23,
-        "goalsAgainst": 16
+        "goalsFor": 25,
+        "goalsAgainst": 17
       },
       "away": {
         "played": 17,
