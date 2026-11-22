@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-22T15:41:51.476330+00:00",
+  "fetchedAt": "2026-11-22T21:16:44.273978+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -8,13 +8,13 @@
       "id": 134,
       "name": "Athletico Paranaense",
       "home": {
-        "played": 17,
-        "points": 32,
-        "wins": 9,
+        "played": 18,
+        "points": 35,
+        "wins": 10,
         "draws": 5,
         "losses": 3,
-        "goalsFor": 28,
-        "goalsAgainst": 18
+        "goalsFor": 32,
+        "goalsAgainst": 20
       },
       "away": {
         "played": 18,
@@ -347,13 +347,13 @@
         "goalsAgainst": 22
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 10,
         "wins": 2,
         "draws": 4,
-        "losses": 11,
-        "goalsFor": 15,
-        "goalsAgainst": 35
+        "losses": 12,
+        "goalsFor": 17,
+        "goalsAgainst": 39
       }
     },
     {

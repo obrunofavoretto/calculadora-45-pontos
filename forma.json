@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T15:41:51.204936+00:00",
+  "fetchedAt": "2026-11-22T21:16:43.945139+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -289,11 +289,24 @@
     {
       "id": 134,
       "name": "Athletico Paranaense",
-      "points": 54,
-      "played": 35,
-      "lastMatchId": "0ID26d8N",
-      "lastMatchDate": 1795044600000,
+      "points": 57,
+      "played": 36,
+      "lastMatchId": "Y5AK0Xz9",
+      "lastMatchDate": 1795374000000,
       "recent": [
+        {
+          "id": "Y5AK0Xz9",
+          "date": 1795374000000,
+          "home": "Athletico-PR",
+          "away": "Remo",
+          "hg": 4,
+          "ag": 2,
+          "round": "Rodada 36",
+          "points": 3,
+          "opponent": "Remo",
+          "venue": "Casa",
+          "score": "4–2"
+        },
         {
           "id": "0ID26d8N",
           "date": 1795044600000,
@@ -410,23 +423,10 @@
           "opponent": "Coritiba",
           "venue": "Fora",
           "score": "3–3"
-        },
-        {
-          "id": "ttie61Xq",
-          "date": 1788721200000,
-          "home": "Cruzeiro",
-          "away": "Athletico-PR",
-          "hg": 3,
-          "ag": 1,
-          "round": "Rodada 26",
-          "points": 0,
-          "opponent": "Cruzeiro",
-          "venue": "Fora",
-          "score": "1–3"
         }
       ],
-      "goalsFor": 52,
-      "goalsAgainst": 45
+      "goalsFor": 56,
+      "goalsAgainst": 47
     },
     {
       "id": 124,
@@ -2562,10 +2562,23 @@
       "id": 1198,
       "name": "Remo",
       "points": 32,
-      "played": 35,
-      "lastMatchId": "G82JXY6M",
-      "lastMatchDate": 1795042800000,
+      "played": 36,
+      "lastMatchId": "Y5AK0Xz9",
+      "lastMatchDate": 1795374000000,
       "recent": [
+        {
+          "id": "Y5AK0Xz9",
+          "date": 1795374000000,
+          "home": "Athletico-PR",
+          "away": "Remo",
+          "hg": 4,
+          "ag": 2,
+          "round": "Rodada 36",
+          "points": 0,
+          "opponent": "Athletico-PR",
+          "venue": "Fora",
+          "score": "2–4"
+        },
         {
           "id": "G82JXY6M",
           "date": 1795042800000,
@@ -2682,23 +2695,10 @@
           "opponent": "Bahia",
           "venue": "Fora",
           "score": "1–2"
-        },
-        {
-          "id": "CpP6O0gS",
-          "date": 1788721200000,
-          "home": "Remo",
-          "away": "Flamengo",
-          "hg": 0,
-          "ag": 1,
-          "round": "Rodada 26",
-          "points": 0,
-          "opponent": "Flamengo",
-          "venue": "Casa",
-          "score": "0–1"
         }
       ],
-      "goalsFor": 39,
-      "goalsAgainst": 57
+      "goalsFor": 41,
+      "goalsAgainst": 61
     },
     {
       "id": 132,
