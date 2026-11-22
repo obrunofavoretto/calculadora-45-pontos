@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T00:20:55.445611+00:00",
+  "fetchedAt": "2026-11-22T07:28:53.040288+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -715,11 +715,24 @@
     {
       "id": 135,
       "name": "Cruzeiro",
-      "points": 63,
-      "played": 35,
-      "lastMatchId": "zySpJZiT",
-      "lastMatchDate": 1795044600000,
+      "points": 66,
+      "played": 36,
+      "lastMatchId": "0KQ0t3kf",
+      "lastMatchDate": 1795305600000,
       "recent": [
+        {
+          "id": "0KQ0t3kf",
+          "date": 1795305600000,
+          "home": "Chapecoense",
+          "away": "Cruzeiro",
+          "hg": 1,
+          "ag": 2,
+          "round": "",
+          "points": 3,
+          "opponent": "Chapecoense",
+          "venue": "Fora",
+          "score": "2–1"
+        },
         {
           "id": "zySpJZiT",
           "date": 1795044600000,
@@ -836,23 +849,10 @@
           "opponent": "Santos",
           "venue": "Fora",
           "score": "1–2"
-        },
-        {
-          "id": "ttie61Xq",
-          "date": 1788721200000,
-          "home": "Cruzeiro",
-          "away": "Athletico-PR",
-          "hg": 3,
-          "ag": 1,
-          "round": "Rodada 26",
-          "points": 3,
-          "opponent": "Athletico-PR",
-          "venue": "Casa",
-          "score": "3–1"
         }
       ],
-      "goalsFor": 57,
-      "goalsAgainst": 49
+      "goalsFor": 59,
+      "goalsAgainst": 50
     },
     {
       "id": 1062,
@@ -2704,10 +2704,23 @@
       "id": 132,
       "name": "Chapecoense",
       "points": 21,
-      "played": 35,
-      "lastMatchId": "G82JXY6M",
-      "lastMatchDate": 1795042800000,
+      "played": 36,
+      "lastMatchId": "0KQ0t3kf",
+      "lastMatchDate": 1795305600000,
       "recent": [
+        {
+          "id": "0KQ0t3kf",
+          "date": 1795305600000,
+          "home": "Chapecoense",
+          "away": "Cruzeiro",
+          "hg": 1,
+          "ag": 2,
+          "round": "",
+          "points": 0,
+          "opponent": "Cruzeiro",
+          "venue": "Casa",
+          "score": "1–2"
+        },
         {
           "id": "G82JXY6M",
           "date": 1795042800000,
@@ -2824,23 +2837,10 @@
           "opponent": "Atlético-MG",
           "venue": "Fora",
           "score": "1–1"
-        },
-        {
-          "id": "8jRopHFl",
-          "date": 1789243200000,
-          "home": "Chapecoense",
-          "away": "Internacional",
-          "hg": 1,
-          "ag": 2,
-          "round": "",
-          "points": 0,
-          "opponent": "Internacional",
-          "venue": "Casa",
-          "score": "1–2"
         }
       ],
-      "goalsFor": 33,
-      "goalsAgainst": 72
+      "goalsFor": 34,
+      "goalsAgainst": 74
     }
   ],
   "status": "updated",
