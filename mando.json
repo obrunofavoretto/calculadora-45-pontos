@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-21T20:06:12.721745+00:00",
+  "fetchedAt": "2026-11-22T00:20:56.075282+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -52,13 +52,13 @@
       "id": 118,
       "name": "Bahia",
       "home": {
-        "played": 17,
+        "played": 18,
         "points": 30,
         "wins": 8,
         "draws": 6,
-        "losses": 3,
+        "losses": 4,
         "goalsFor": 26,
-        "goalsAgainst": 19
+        "goalsAgainst": 20
       },
       "away": {
         "played": 18,
@@ -149,12 +149,12 @@
         "goalsAgainst": 22
       },
       "away": {
-        "played": 17,
-        "points": 19,
-        "wins": 5,
+        "played": 18,
+        "points": 22,
+        "wins": 6,
         "draws": 4,
         "losses": 8,
-        "goalsFor": 18,
+        "goalsFor": 19,
         "goalsAgainst": 30
       }
     },
@@ -193,13 +193,13 @@
         "goalsAgainst": 14
       },
       "away": {
-        "played": 17,
-        "points": 34,
+        "played": 18,
+        "points": 35,
         "wins": 10,
-        "draws": 4,
+        "draws": 5,
         "losses": 3,
-        "goalsFor": 36,
-        "goalsAgainst": 16
+        "goalsFor": 37,
+        "goalsAgainst": 17
       }
     },
     {
@@ -294,13 +294,13 @@
       "id": 121,
       "name": "Palmeiras",
       "home": {
-        "played": 17,
-        "points": 42,
+        "played": 18,
+        "points": 43,
         "wins": 13,
-        "draws": 3,
+        "draws": 4,
         "losses": 1,
-        "goalsFor": 36,
-        "goalsAgainst": 11
+        "goalsFor": 37,
+        "goalsAgainst": 12
       },
       "away": {
         "played": 18,

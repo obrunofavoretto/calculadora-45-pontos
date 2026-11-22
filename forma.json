@@ -1,15 +1,28 @@
 {
-  "fetchedAt": "2026-11-21T20:06:12.282134+00:00",
+  "fetchedAt": "2026-11-22T00:20:55.445611+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
       "id": 127,
       "name": "Flamengo",
-      "points": 79,
-      "played": 35,
-      "lastMatchId": "0ID26d8N",
-      "lastMatchDate": 1795044600000,
+      "points": 80,
+      "played": 36,
+      "lastMatchId": "faNhnYLF",
+      "lastMatchDate": 1795289400000,
       "recent": [
+        {
+          "id": "faNhnYLF",
+          "date": 1795289400000,
+          "home": "Palmeiras",
+          "away": "Flamengo",
+          "hg": 1,
+          "ag": 1,
+          "round": "Rodada 36",
+          "points": 1,
+          "opponent": "Palmeiras",
+          "venue": "Fora",
+          "score": "1–1"
+        },
         {
           "id": "0ID26d8N",
           "date": 1795044600000,
@@ -126,32 +139,32 @@
           "opponent": "Corinthians",
           "venue": "Casa",
           "score": "2–1"
-        },
-        {
-          "id": "CpP6O0gS",
-          "date": 1788721200000,
-          "home": "Remo",
-          "away": "Flamengo",
-          "hg": 0,
-          "ag": 1,
-          "round": "Rodada 26",
-          "points": 3,
-          "opponent": "Remo",
-          "venue": "Fora",
-          "score": "1–0"
         }
       ],
-      "goalsFor": 73,
-      "goalsAgainst": 30
+      "goalsFor": 74,
+      "goalsAgainst": 31
     },
     {
       "id": 121,
       "name": "Palmeiras",
-      "points": 73,
-      "played": 35,
-      "lastMatchId": "zySpJZiT",
-      "lastMatchDate": 1795044600000,
+      "points": 74,
+      "played": 36,
+      "lastMatchId": "faNhnYLF",
+      "lastMatchDate": 1795289400000,
       "recent": [
+        {
+          "id": "faNhnYLF",
+          "date": 1795289400000,
+          "home": "Palmeiras",
+          "away": "Flamengo",
+          "hg": 1,
+          "ag": 1,
+          "round": "Rodada 36",
+          "points": 1,
+          "opponent": "Flamengo",
+          "venue": "Casa",
+          "score": "1–1"
+        },
         {
           "id": "zySpJZiT",
           "date": 1795044600000,
@@ -268,23 +281,10 @@
           "opponent": "São Paulo",
           "venue": "Casa",
           "score": "2–0"
-        },
-        {
-          "id": "tSBMi2Ij",
-          "date": 1788730200000,
-          "home": "Botafogo",
-          "away": "Palmeiras",
-          "hg": 0,
-          "ag": 0,
-          "round": "Rodada 26",
-          "points": 1,
-          "opponent": "Botafogo",
-          "venue": "Fora",
-          "score": "0–0"
         }
       ],
-      "goalsFor": 63,
-      "goalsAgainst": 25
+      "goalsFor": 64,
+      "goalsAgainst": 26
     },
     {
       "id": 134,
@@ -574,10 +574,23 @@
       "id": 118,
       "name": "Bahia",
       "points": 54,
-      "played": 35,
-      "lastMatchId": "6JIGDDFj",
-      "lastMatchDate": 1795048200000,
+      "played": 36,
+      "lastMatchId": "v5xhrPKs",
+      "lastMatchDate": 1795293000000,
       "recent": [
+        {
+          "id": "v5xhrPKs",
+          "date": 1795293000000,
+          "home": "Bahia",
+          "away": "Coritiba",
+          "hg": 0,
+          "ag": 1,
+          "round": "Rodada 36",
+          "points": 0,
+          "opponent": "Coritiba",
+          "venue": "Casa",
+          "score": "0–1"
+        },
         {
           "id": "6JIGDDFj",
           "date": 1795048200000,
@@ -694,23 +707,10 @@
           "opponent": "Remo",
           "venue": "Casa",
           "score": "2–1"
-        },
-        {
-          "id": "MeAOBN9M",
-          "date": 1788634800000,
-          "home": "Red Bull Bragantino",
-          "away": "Bahia",
-          "hg": 2,
-          "ag": 3,
-          "round": "Rodada 26",
-          "points": 3,
-          "opponent": "Red Bull Bragantino",
-          "venue": "Fora",
-          "score": "3–2"
         }
       ],
       "goalsFor": 50,
-      "goalsAgainst": 45
+      "goalsAgainst": 46
     },
     {
       "id": 135,
@@ -1425,11 +1425,24 @@
     {
       "id": 147,
       "name": "Coritiba",
-      "points": 42,
-      "played": 35,
-      "lastMatchId": "nFe3yH7c",
-      "lastMatchDate": 1795041000000,
+      "points": 45,
+      "played": 36,
+      "lastMatchId": "v5xhrPKs",
+      "lastMatchDate": 1795293000000,
       "recent": [
+        {
+          "id": "v5xhrPKs",
+          "date": 1795293000000,
+          "home": "Bahia",
+          "away": "Coritiba",
+          "hg": 0,
+          "ag": 1,
+          "round": "Rodada 36",
+          "points": 3,
+          "opponent": "Bahia",
+          "venue": "Fora",
+          "score": "1–0"
+        },
         {
           "id": "nFe3yH7c",
           "date": 1795041000000,
@@ -1546,22 +1559,9 @@
           "opponent": "Athletico-PR",
           "venue": "Casa",
           "score": "3–3"
-        },
-        {
-          "id": "U1XkSrf3",
-          "date": 1788703200000,
-          "home": "Coritiba",
-          "away": "Mirassol",
-          "hg": 1,
-          "ag": 2,
-          "round": "Rodada 26",
-          "points": 0,
-          "opponent": "Mirassol",
-          "venue": "Casa",
-          "score": "1–2"
         }
       ],
-      "goalsFor": 40,
+      "goalsFor": 41,
       "goalsAgainst": 52
     },
     {

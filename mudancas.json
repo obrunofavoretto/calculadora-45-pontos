@@ -1,19 +1,19 @@
 {
   "current": {
     "date": "2026-11-21",
-    "fetchedAt": "2026-11-21T20:06:09.824107+00:00",
+    "fetchedAt": "2026-11-22T00:20:53.391368+00:00",
     "teams": [
       {
         "id": 127,
         "name": "Flamengo",
-        "points": 79,
-        "played": 35
+        "points": 80,
+        "played": 36
       },
       {
         "id": 121,
         "name": "Palmeiras",
-        "points": 73,
-        "played": 35
+        "points": 74,
+        "played": 36
       },
       {
         "id": 135,
@@ -37,7 +37,7 @@
         "id": 118,
         "name": "Bahia",
         "points": 54,
-        "played": 35
+        "played": 36
       },
       {
         "id": 1062,
@@ -64,6 +64,12 @@
         "played": 35
       },
       {
+        "id": 147,
+        "name": "Coritiba",
+        "points": 45,
+        "played": 36
+      },
+      {
         "id": 126,
         "name": "São Paulo",
         "points": 44,
@@ -72,12 +78,6 @@
       {
         "id": 120,
         "name": "Botafogo",
-        "points": 42,
-        "played": 35
-      },
-      {
-        "id": 147,
-        "name": "Coritiba",
         "points": 42,
         "played": 35
       },
@@ -252,132 +252,132 @@
     ]
   },
   "round": {
-    "number": 35,
-    "startedAt": "2026-11-14T21:30:00+00:00"
+    "number": 36,
+    "startedAt": "2026-11-21T19:30:00+00:00"
   },
   "roundBefore": {
-    "date": "2026-11-13",
-    "fetchedAt": "2026-11-13T23:53:21.597570+00:00",
+    "date": "2026-11-20",
+    "fetchedAt": "2026-11-20T23:21:47.710713+00:00",
     "teams": [
       {
         "id": 127,
         "name": "Flamengo",
-        "points": 76,
-        "played": 34
+        "points": 79,
+        "played": 35
       },
       {
         "id": 121,
         "name": "Palmeiras",
         "points": 73,
-        "played": 34
+        "played": 35
       },
       {
         "id": 135,
         "name": "Cruzeiro",
-        "points": 60,
-        "played": 34
+        "points": 63,
+        "played": 35
       },
       {
         "id": 124,
         "name": "Fluminense",
-        "points": 57,
-        "played": 34
+        "points": 60,
+        "played": 35
       },
       {
         "id": 134,
         "name": "Athletico Paranaense",
         "points": 54,
-        "played": 34
+        "played": 35
       },
       {
         "id": 118,
         "name": "Bahia",
-        "points": 53,
-        "played": 34
+        "points": 54,
+        "played": 35
       },
       {
         "id": 1062,
         "name": "Atlético Mineiro",
+        "points": 51,
+        "played": 35
+      },
+      {
+        "id": 128,
+        "name": "Santos",
         "points": 50,
-        "played": 34
+        "played": 35
       },
       {
         "id": 794,
         "name": "Red Bull Bragantino",
         "points": 47,
-        "played": 34
+        "played": 35
       },
       {
-        "id": 128,
-        "name": "Santos",
+        "id": 133,
+        "name": "Vasco da Gama",
         "points": 47,
-        "played": 34
+        "played": 35
       },
       {
         "id": 126,
         "name": "São Paulo",
         "points": 44,
-        "played": 34
+        "played": 35
       },
       {
         "id": 120,
         "name": "Botafogo",
         "points": 42,
-        "played": 34
+        "played": 35
       },
       {
         "id": 147,
         "name": "Coritiba",
         "points": 42,
-        "played": 34
-      },
-      {
-        "id": 133,
-        "name": "Vasco da Gama",
-        "points": 41,
-        "played": 33
-      },
-      {
-        "id": 7848,
-        "name": "Mirassol",
-        "points": 40,
-        "played": 34
+        "played": 35
       },
       {
         "id": 136,
         "name": "Vitória",
-        "points": 38,
-        "played": 34
+        "points": 41,
+        "played": 35
+      },
+      {
+        "id": 7848,
+        "name": "Mirassol",
+        "points": 41,
+        "played": 35
+      },
+      {
+        "id": 131,
+        "name": "Corinthians",
+        "points": 40,
+        "played": 35
       },
       {
         "id": 119,
         "name": "Internacional",
         "points": 38,
-        "played": 34
-      },
-      {
-        "id": 131,
-        "name": "Corinthians",
-        "points": 37,
-        "played": 34
+        "played": 35
       },
       {
         "id": 130,
         "name": "Grêmio[b]",
-        "points": 37,
-        "played": 34
+        "points": 38,
+        "played": 35
       },
       {
         "id": 1198,
         "name": "Remo",
-        "points": 29,
-        "played": 34
+        "points": 32,
+        "played": 35
       },
       {
         "id": 132,
         "name": "Chapecoense",
         "points": 21,
-        "played": 33
+        "played": 35
       }
     ]
   },
@@ -3107,6 +3107,132 @@
         {
           "id": 147,
           "name": "Coritiba",
+          "points": 42,
+          "played": 35
+        },
+        {
+          "id": 136,
+          "name": "Vitória",
+          "points": 41,
+          "played": 35
+        },
+        {
+          "id": 7848,
+          "name": "Mirassol",
+          "points": 41,
+          "played": 35
+        },
+        {
+          "id": 131,
+          "name": "Corinthians",
+          "points": 40,
+          "played": 35
+        },
+        {
+          "id": 119,
+          "name": "Internacional",
+          "points": 38,
+          "played": 35
+        },
+        {
+          "id": 130,
+          "name": "Grêmio[b]",
+          "points": 38,
+          "played": 35
+        },
+        {
+          "id": 1198,
+          "name": "Remo",
+          "points": 32,
+          "played": 35
+        },
+        {
+          "id": 132,
+          "name": "Chapecoense",
+          "points": 21,
+          "played": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "fetchedAt": "2026-11-22T00:20:53.391368+00:00",
+      "teams": [
+        {
+          "id": 127,
+          "name": "Flamengo",
+          "points": 80,
+          "played": 36
+        },
+        {
+          "id": 121,
+          "name": "Palmeiras",
+          "points": 74,
+          "played": 36
+        },
+        {
+          "id": 135,
+          "name": "Cruzeiro",
+          "points": 63,
+          "played": 35
+        },
+        {
+          "id": 124,
+          "name": "Fluminense",
+          "points": 60,
+          "played": 35
+        },
+        {
+          "id": 134,
+          "name": "Athletico Paranaense",
+          "points": 54,
+          "played": 35
+        },
+        {
+          "id": 118,
+          "name": "Bahia",
+          "points": 54,
+          "played": 36
+        },
+        {
+          "id": 1062,
+          "name": "Atlético Mineiro",
+          "points": 51,
+          "played": 35
+        },
+        {
+          "id": 128,
+          "name": "Santos",
+          "points": 50,
+          "played": 35
+        },
+        {
+          "id": 794,
+          "name": "Red Bull Bragantino",
+          "points": 47,
+          "played": 35
+        },
+        {
+          "id": 133,
+          "name": "Vasco da Gama",
+          "points": 47,
+          "played": 35
+        },
+        {
+          "id": 147,
+          "name": "Coritiba",
+          "points": 45,
+          "played": 36
+        },
+        {
+          "id": 126,
+          "name": "São Paulo",
+          "points": 44,
+          "played": 35
+        },
+        {
+          "id": 120,
+          "name": "Botafogo",
           "points": 42,
           "played": 35
         },
