@@ -1,7 +1,7 @@
 {
   "current": {
-    "date": "2026-11-22",
-    "fetchedAt": "2026-11-23T01:49:14.488222+00:00",
+    "date": "2026-11-23",
+    "fetchedAt": "2026-11-23T10:46:40.847414+00:00",
     "teams": [
       {
         "id": 127,
@@ -126,8 +126,8 @@
     ]
   },
   "before": {
-    "date": "2026-11-21",
-    "fetchedAt": "2026-11-22T00:20:53.391368+00:00",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-23T01:49:14.488222+00:00",
     "teams": [
       {
         "id": 127,
@@ -144,20 +144,20 @@
       {
         "id": 135,
         "name": "Cruzeiro",
-        "points": 63,
-        "played": 35
+        "points": 66,
+        "played": 36
       },
       {
         "id": 124,
         "name": "Fluminense",
-        "points": 60,
-        "played": 35
+        "points": 63,
+        "played": 36
       },
       {
         "id": 134,
         "name": "Athletico Paranaense",
-        "points": 54,
-        "played": 35
+        "points": 57,
+        "played": 36
       },
       {
         "id": 118,
@@ -172,22 +172,22 @@
         "played": 35
       },
       {
+        "id": 794,
+        "name": "Red Bull Bragantino",
+        "points": 50,
+        "played": 36
+      },
+      {
         "id": 128,
         "name": "Santos",
         "points": 50,
         "played": 35
       },
       {
-        "id": 794,
-        "name": "Red Bull Bragantino",
-        "points": 47,
-        "played": 35
-      },
-      {
         "id": 133,
         "name": "Vasco da Gama",
         "points": 47,
-        "played": 35
+        "played": 36
       },
       {
         "id": 147,
@@ -217,7 +217,7 @@
         "id": 7848,
         "name": "Mirassol",
         "points": 41,
-        "played": 35
+        "played": 36
       },
       {
         "id": 131,
@@ -241,13 +241,13 @@
         "id": 1198,
         "name": "Remo",
         "points": 32,
-        "played": 35
+        "played": 36
       },
       {
         "id": 132,
         "name": "Chapecoense",
         "points": 21,
-        "played": 35
+        "played": 36
       }
     ]
   },
@@ -3533,8 +3533,8 @@
       ]
     },
     {
-      "date": "2026-11-22",
-      "fetchedAt": "2026-11-23T01:49:14.488222+00:00",
+      "date": "2026-11-23",
+      "fetchedAt": "2026-11-23T10:46:40.847414+00:00",
       "teams": [
         {
           "id": 127,
