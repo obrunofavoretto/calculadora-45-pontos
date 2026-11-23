@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-22T21:16:44.273978+00:00",
+  "fetchedAt": "2026-11-23T01:49:17.523751+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -206,12 +206,12 @@
       "id": 124,
       "name": "Fluminense",
       "home": {
-        "played": 17,
-        "points": 39,
-        "wins": 12,
+        "played": 18,
+        "points": 42,
+        "wins": 13,
         "draws": 3,
         "losses": 2,
-        "goalsFor": 31,
+        "goalsFor": 32,
         "goalsAgainst": 17
       },
       "away": {
@@ -281,13 +281,13 @@
         "goalsAgainst": 22
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 13,
         "wins": 3,
         "draws": 4,
-        "losses": 10,
+        "losses": 11,
         "goalsFor": 15,
-        "goalsAgainst": 26
+        "goalsAgainst": 27
       }
     },
     {
@@ -316,12 +316,12 @@
       "id": 794,
       "name": "Red Bull Bragantino",
       "home": {
-        "played": 17,
-        "points": 30,
-        "wins": 9,
+        "played": 18,
+        "points": 33,
+        "wins": 10,
         "draws": 3,
         "losses": 5,
-        "goalsFor": 29,
+        "goalsFor": 30,
         "goalsAgainst": 18
       },
       "away": {
@@ -413,13 +413,13 @@
         "goalsAgainst": 25
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "points": 17,
         "wins": 4,
         "draws": 5,
-        "losses": 8,
+        "losses": 9,
         "goalsFor": 20,
-        "goalsAgainst": 26
+        "goalsAgainst": 27
       }
     },
     {
