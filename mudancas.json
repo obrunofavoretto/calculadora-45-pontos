@@ -1,7 +1,7 @@
 {
   "current": {
-    "date": "2026-11-24",
-    "fetchedAt": "2026-11-25T01:38:09.760289+00:00",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T10:30:38.007382+00:00",
     "teams": [
       {
         "id": 127,
@@ -126,8 +126,8 @@
     ]
   },
   "before": {
-    "date": "2026-11-23",
-    "fetchedAt": "2026-11-23T22:16:38.150406+00:00",
+    "date": "2026-11-24",
+    "fetchedAt": "2026-11-25T01:38:09.760289+00:00",
     "teams": [
       {
         "id": 127,
@@ -139,7 +139,7 @@
         "id": 121,
         "name": "Palmeiras",
         "points": 74,
-        "played": 36
+        "played": 37
       },
       {
         "id": 135,
@@ -181,12 +181,18 @@
         "id": 128,
         "name": "Santos",
         "points": 50,
-        "played": 35
+        "played": 36
       },
       {
         "id": 133,
         "name": "Vasco da Gama",
         "points": 47,
+        "played": 36
+      },
+      {
+        "id": 126,
+        "name": "São Paulo",
+        "points": 45,
         "played": 36
       },
       {
@@ -196,22 +202,22 @@
         "played": 36
       },
       {
-        "id": 126,
-        "name": "São Paulo",
+        "id": 136,
+        "name": "Vitória",
         "points": 44,
-        "played": 35
+        "played": 36
       },
       {
         "id": 120,
         "name": "Botafogo",
-        "points": 42,
-        "played": 35
+        "points": 43,
+        "played": 36
       },
       {
-        "id": 136,
-        "name": "Vitória",
+        "id": 130,
+        "name": "Grêmio",
         "points": 41,
-        "played": 35
+        "played": 36
       },
       {
         "id": 7848,
@@ -229,13 +235,7 @@
         "id": 119,
         "name": "Internacional",
         "points": 38,
-        "played": 35
-      },
-      {
-        "id": 130,
-        "name": "Grêmio[b]",
-        "points": 38,
-        "played": 35
+        "played": 36
       },
       {
         "id": 1198,
@@ -246,8 +246,8 @@
       {
         "id": 132,
         "name": "Chapecoense",
-        "points": 21,
-        "played": 36
+        "points": 24,
+        "played": 37
       }
     ]
   },
@@ -3785,8 +3785,8 @@
       ]
     },
     {
-      "date": "2026-11-24",
-      "fetchedAt": "2026-11-25T01:38:09.760289+00:00",
+      "date": "2026-11-25",
+      "fetchedAt": "2026-11-25T10:30:38.007382+00:00",
       "teams": [
         {
           "id": 127,
