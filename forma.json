@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T17:44:45.180206+00:00",
+  "fetchedAt": "2026-11-25T01:38:11.422718+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -148,10 +148,23 @@
       "id": 121,
       "name": "Palmeiras",
       "points": 74,
-      "played": 36,
-      "lastMatchId": "faNhnYLF",
-      "lastMatchDate": 1795289400000,
+      "played": 37,
+      "lastMatchId": "OzJP5JI5",
+      "lastMatchDate": 1795554000000,
       "recent": [
+        {
+          "id": "OzJP5JI5",
+          "date": 1795554000000,
+          "home": "Chapecoense",
+          "away": "Palmeiras",
+          "hg": 3,
+          "ag": 0,
+          "round": "",
+          "points": 0,
+          "opponent": "Chapecoense",
+          "venue": "Fora",
+          "score": "0–3"
+        },
         {
           "id": "faNhnYLF",
           "date": 1795289400000,
@@ -268,23 +281,10 @@
           "opponent": "Grêmio",
           "venue": "Fora",
           "score": "0–0"
-        },
-        {
-          "id": "jyptw08L",
-          "date": 1789248600000,
-          "home": "Palmeiras",
-          "away": "São Paulo",
-          "hg": 2,
-          "ag": 0,
-          "round": "Rodada 27",
-          "points": 3,
-          "opponent": "São Paulo",
-          "venue": "Casa",
-          "score": "2–0"
         }
       ],
       "goalsFor": 64,
-      "goalsAgainst": 26
+      "goalsAgainst": 29
     },
     {
       "id": 134,
@@ -2703,11 +2703,24 @@
     {
       "id": 132,
       "name": "Chapecoense",
-      "points": 21,
-      "played": 36,
-      "lastMatchId": "0KQ0t3kf",
-      "lastMatchDate": 1795305600000,
+      "points": 24,
+      "played": 37,
+      "lastMatchId": "OzJP5JI5",
+      "lastMatchDate": 1795554000000,
       "recent": [
+        {
+          "id": "OzJP5JI5",
+          "date": 1795554000000,
+          "home": "Chapecoense",
+          "away": "Palmeiras",
+          "hg": 3,
+          "ag": 0,
+          "round": "",
+          "points": 3,
+          "opponent": "Palmeiras",
+          "venue": "Casa",
+          "score": "3–0"
+        },
         {
           "id": "0KQ0t3kf",
           "date": 1795305600000,
@@ -2824,22 +2837,9 @@
           "opponent": "Vitória",
           "venue": "Fora",
           "score": "0–4"
-        },
-        {
-          "id": "QkKwrnjI",
-          "date": 1789844400000,
-          "home": "Atlético-MG",
-          "away": "Chapecoense",
-          "hg": 1,
-          "ag": 1,
-          "round": "",
-          "points": 1,
-          "opponent": "Atlético-MG",
-          "venue": "Fora",
-          "score": "1–1"
         }
       ],
-      "goalsFor": 34,
+      "goalsFor": 37,
       "goalsAgainst": 74
     }
   ],

@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-24T17:44:45.482533+00:00",
+  "fetchedAt": "2026-11-25T01:38:11.752774+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -96,12 +96,12 @@
       "id": 132,
       "name": "Chapecoense",
       "home": {
-        "played": 18,
-        "points": 14,
-        "wins": 3,
+        "played": 19,
+        "points": 17,
+        "wins": 4,
         "draws": 5,
         "losses": 10,
-        "goalsFor": 23,
+        "goalsFor": 26,
         "goalsAgainst": 40
       },
       "away": {
@@ -303,13 +303,13 @@
         "goalsAgainst": 12
       },
       "away": {
-        "played": 18,
+        "played": 19,
         "points": 31,
         "wins": 8,
         "draws": 7,
-        "losses": 3,
+        "losses": 4,
         "goalsFor": 27,
-        "goalsAgainst": 14
+        "goalsAgainst": 17
       }
     },
     {
