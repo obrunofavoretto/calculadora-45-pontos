@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-25T20:12:47.429720+00:00",
+  "fetchedAt": "2026-11-26T02:52:05.093566+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -30,13 +30,13 @@
       "id": 1062,
       "name": "Atlético Mineiro",
       "home": {
-        "played": 17,
-        "points": 35,
+        "played": 18,
+        "points": 36,
         "wins": 10,
-        "draws": 5,
+        "draws": 6,
         "losses": 2,
-        "goalsFor": 27,
-        "goalsAgainst": 18
+        "goalsFor": 28,
+        "goalsAgainst": 19
       },
       "away": {
         "played": 18,
@@ -127,13 +127,13 @@
         "goalsAgainst": 17
       },
       "away": {
-        "played": 17,
-        "points": 15,
+        "played": 18,
+        "points": 16,
         "wins": 3,
-        "draws": 6,
+        "draws": 7,
         "losses": 8,
-        "goalsFor": 18,
-        "goalsAgainst": 25
+        "goalsFor": 19,
+        "goalsAgainst": 26
       }
     },
     {

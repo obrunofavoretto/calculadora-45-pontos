@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T20:12:47.161863+00:00",
+  "fetchedAt": "2026-11-26T02:52:04.820412+00:00",
   "sourceUrl": "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-a/classificacao/hdLUdQGi/forma/geral/5/",
   "teams": [
     {
@@ -857,11 +857,24 @@
     {
       "id": 1062,
       "name": "Atlético Mineiro",
-      "points": 51,
-      "played": 35,
-      "lastMatchId": "v9YyLeNG",
-      "lastMatchDate": 1794691800000,
+      "points": 52,
+      "played": 36,
+      "lastMatchId": "M97XvjEk",
+      "lastMatchDate": 1795647600000,
       "recent": [
+        {
+          "id": "M97XvjEk",
+          "date": 1795647600000,
+          "home": "Atlético-MG",
+          "away": "Corinthians",
+          "hg": 1,
+          "ag": 1,
+          "round": "Rodada 36",
+          "points": 1,
+          "opponent": "Corinthians",
+          "venue": "Casa",
+          "score": "1–1"
+        },
         {
           "id": "v9YyLeNG",
           "date": 1794691800000,
@@ -978,23 +991,10 @@
           "opponent": "Chapecoense",
           "venue": "Casa",
           "score": "1–1"
-        },
-        {
-          "id": "IoUKVH0e",
-          "date": 1789239600000,
-          "home": "Atlético-MG",
-          "away": "Fluminense",
-          "hg": 3,
-          "ag": 1,
-          "round": "Rodada 27",
-          "points": 3,
-          "opponent": "Fluminense",
-          "venue": "Casa",
-          "score": "3–1"
         }
       ],
-      "goalsFor": 44,
-      "goalsAgainst": 40
+      "goalsFor": 45,
+      "goalsAgainst": 41
     },
     {
       "id": 128,
@@ -2135,11 +2135,24 @@
     {
       "id": 131,
       "name": "Corinthians",
-      "points": 40,
-      "played": 35,
-      "lastMatchId": "6ezUMHh4",
-      "lastMatchDate": 1795048200000,
+      "points": 41,
+      "played": 36,
+      "lastMatchId": "M97XvjEk",
+      "lastMatchDate": 1795647600000,
       "recent": [
+        {
+          "id": "M97XvjEk",
+          "date": 1795647600000,
+          "home": "Atlético-MG",
+          "away": "Corinthians",
+          "hg": 1,
+          "ag": 1,
+          "round": "Rodada 36",
+          "points": 1,
+          "opponent": "Atlético-MG",
+          "venue": "Fora",
+          "score": "1–1"
+        },
         {
           "id": "6ezUMHh4",
           "date": 1795048200000,
@@ -2256,23 +2269,10 @@
           "opponent": "Flamengo",
           "venue": "Fora",
           "score": "1–2"
-        },
-        {
-          "id": "lrCGDquA",
-          "date": 1788733800000,
-          "home": "Corinthians",
-          "away": "Chapecoense",
-          "hg": 1,
-          "ag": 2,
-          "round": "",
-          "points": 0,
-          "opponent": "Chapecoense",
-          "venue": "Casa",
-          "score": "1–2"
         }
       ],
-      "goalsFor": 40,
-      "goalsAgainst": 42
+      "goalsFor": 41,
+      "goalsAgainst": 43
     },
     {
       "id": 119,
