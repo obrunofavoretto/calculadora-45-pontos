@@ -1,12 +1,12 @@
 {
   "league": 71,
   "season": 2026,
-  "fetchedAt": "2026-11-26T21:56:44.995131+00:00",
+  "fetchedAt": "2026-11-27T04:16:06.402116+00:00",
   "sourceUpdatedAt": null,
   "source": "Wikipédia — colaboradores do artigo",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "sourceHistoryUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A?action=history",
-  "sourceRevision": "73555694",
+  "sourceRevision": "73563839",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "notice": "Extração e normalização dos pontos e jogos da tabela comunitária. A data de consulta não garante atualização após cada partida.",
@@ -66,15 +66,15 @@
       "played": 36
     },
     {
+      "id": 126,
+      "name": "São Paulo",
+      "points": 48,
+      "played": 37
+    },
+    {
       "id": 133,
       "name": "Vasco da Gama",
       "points": 47,
-      "played": 36
-    },
-    {
-      "id": 126,
-      "name": "São Paulo",
-      "points": 45,
       "played": 36
     },
     {
@@ -123,7 +123,7 @@
       "id": 1198,
       "name": "Remo",
       "points": 32,
-      "played": 36
+      "played": 37
     },
     {
       "id": 132,

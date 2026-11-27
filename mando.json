@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "2026-11-26T21:56:47.254007+00:00",
+  "fetchedAt": "2026-11-27T04:16:08.877316+00:00",
   "sourceUrl": "https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -347,13 +347,13 @@
         "goalsAgainst": 22
       },
       "away": {
-        "played": 18,
+        "played": 19,
         "points": 10,
         "wins": 2,
         "draws": 4,
-        "losses": 12,
-        "goalsFor": 17,
-        "goalsAgainst": 39
+        "losses": 13,
+        "goalsFor": 18,
+        "goalsAgainst": 42
       }
     },
     {
@@ -382,13 +382,13 @@
       "id": 126,
       "name": "São Paulo",
       "home": {
-        "played": 18,
-        "points": 34,
-        "wins": 10,
+        "played": 19,
+        "points": 37,
+        "wins": 11,
         "draws": 4,
         "losses": 4,
-        "goalsFor": 25,
-        "goalsAgainst": 14
+        "goalsFor": 28,
+        "goalsAgainst": 15
       },
       "away": {
         "played": 18,
